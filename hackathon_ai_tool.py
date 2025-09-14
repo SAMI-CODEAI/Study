@@ -7,7 +7,7 @@ import re
 import json
 
 
-st.set_page_config(page_title="NotebookLM Clone", layout="wide")
+st.set_page_config(page_title="Study Gen", layout="wide")
 
 
 # --- API Key ---
