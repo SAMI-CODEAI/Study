@@ -56,6 +56,7 @@ if st.session_state.page == "courses":
     st.title("🎓 Courses")
 
 
+
     if st.session_state.courses:
         st.subheader("Your Courses")
         for course in st.session_state.courses.keys():
